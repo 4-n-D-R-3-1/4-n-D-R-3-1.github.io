@@ -5,7 +5,6 @@ body {
   padding: 0;
 }
 
-/* Hero Section */
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
               url('https://img.freepik.com/free-photo/colorful-toys-wooden-background_144627-34083.jpg');
@@ -18,7 +17,6 @@ body {
   text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
 }
 
-/* Animation Classes */
 @keyframes fadeUp {
   from {
     opacity: 0;
